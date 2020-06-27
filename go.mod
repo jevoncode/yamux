@@ -1,1 +1,1 @@
-module github.com/hashicorp/yamux
+module github.com/jevoncode/yamux
